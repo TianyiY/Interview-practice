@@ -1,2 +1,2 @@
 # Interview-practice
-technical practice
+technical interview practice

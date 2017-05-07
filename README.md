@@ -1,7 +1,6 @@
 # Interview-practice
-technical interview practice
+codes of some technical interview questions
 
-Several technical interview problems by coding
-
-Q1: Knuth-Morris-Pratt algorithm
-Q2: find the longest palindrome in a string
+Q1: Knuth-Morris-Pratt algorithm for string matching
+Q2: Find the longest palindrome in a string
+Q3: Implement minimum spaning tree on graph

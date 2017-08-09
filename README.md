@@ -1,5 +1,4 @@
 # Interview-practice
-codes of some technical interview questions
 
 Q1: Knuth-Morris-Pratt algorithm for string matching
 Q2: Find the longest palindrome in a string

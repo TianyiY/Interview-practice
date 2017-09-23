@@ -5,3 +5,5 @@
 - Q3: Implement minimum spaning tree on graph
 - Q4: Finding the common ancestor of two nodes of a tree.
 - Q5: LinkedList search
+- Q6:
+- Q7:
